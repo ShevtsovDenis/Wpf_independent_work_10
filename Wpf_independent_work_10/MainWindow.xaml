@@ -9,7 +9,7 @@
     <StackPanel>
         <Border BorderBrush="#FF2DD9FF" BorderThickness="5"
                 HorizontalAlignment="Center" VerticalAlignment="Center">
-            <Image Source="Data/с#.png" Height="200" Width="350" x:Name="myImage" Stretch="Fill"/>
+            <Image Source="Data/с.png" Height="200" Width="350" x:Name="myImage" Stretch="Fill"/>
             <Border.Effect>
                 <DropShadowEffect Color="Black" Direction="40" ShadowDepth="20" Opacity="0.4"/>
             </Border.Effect>
